@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f04e2ff1-d086-4ff2-a84e-128b4e5ffae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Opgave-1/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opgave-1/db_connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opgave-1/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opgave-1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Opgave-1/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Opgave-1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Opgave-1/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opgave-1/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -26,6 +25,16 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opgave-1/form.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Opgave-1/db_connect.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Opgave-1/functions.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -55,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/Opgave-1/main.css" />
         <option value="$PROJECT_DIR$/Opgave-1/index.php" />
+        <option value="$PROJECT_DIR$/Opgave-1/pdo.php" />
       </list>
     </option>
   </component>
@@ -116,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570091179447</updated>
-      <workItem from="1570091188329" duration="2746000" />
+      <workItem from="1570091188329" duration="3289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2746000" />
+    <option name="totallyTimeSpent" value="3289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -159,15 +169,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opgave-1/form.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Opgave-1/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opgave-1/pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opgave-1/form.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opgave-1/db_connect.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opgave-1/functions.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
