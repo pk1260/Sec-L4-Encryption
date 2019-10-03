@@ -3,7 +3,29 @@ body {
     padding: 0;
 }
 
+form {
+}
+input {
+    width: 204px;
+    padding: 10px;
+    margin: 3px;
+}
+
+input[type=submit] {
+    width: 228px;
+}
+
+#straat {
+    width: 130px;
+}
+#nummer {
+    width: 40px;
+}
 .wrapper {
     margin: 0 auto;
     width: 500px;
+}
+
+.inputfile {
+    color: red;
 }
